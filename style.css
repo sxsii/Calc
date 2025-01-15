@@ -29,8 +29,8 @@ input{
     height: 70px;
     width: 260px;
     background-color: #ecf0f3;
-    box-shadow: -5px -5px 12px #fff,
-                5px 5px 12px rgba(0, 0, 0, 16);
+    box-shadow: inset -5px -5px 12px #ffffff,
+                inset 5px 5px 12px rgba(0, 0, 0, 16);
     border: none;
     border-radius: 30px;
     color: rgba(70, 70, 70);
